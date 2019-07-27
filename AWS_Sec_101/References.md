@@ -1,14 +1,15 @@
 # Getting Started with AWS Security - References
 
 **AWS History**:
-https://aws.amazon.com/10year/
-https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/
+* https://aws.amazon.com/10year/
+* https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/
 
 ## Written by AWS about AWS
 
 **Specific Guides**:
-Host a website on S3: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
-More about Lambda: https://aws.amazon.com/lambda/faqs/
+* Host a website on S3: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
+* More about Lambda: https://aws.amazon.com/lambda/faqs/
+* All about writing for the APIs: https://docs.aws.amazon.com/#user_guides
 
 **AWS’ own Security Resources**:
 * https://aws.amazon.com/security/security-resources/
