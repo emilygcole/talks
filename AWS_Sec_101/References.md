@@ -10,13 +10,17 @@
 * Host a website on S3: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
 * More about Lambda: https://aws.amazon.com/lambda/faqs/
 * All about writing for the APIs: https://docs.aws.amazon.com/#user_guides
+* How to Create IAM Policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create.html
+* Example IAM Policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
+* The Classic Shared Responsibility Model: https://aws.amazon.com/compliance/shared-responsibility-model/
+* Well-Architected basics: https://aws.amazon.com/architecture/well-architected/
 
 **AWS’ own Security Resources**:
-* https://aws.amazon.com/security/security-resources/
+* All security resources: https://aws.amazon.com/security/security-resources/
 * The re:Inforce conference session links: https://aws.amazon.com/blogs/security/reinforce-2019-wrap-up-and-session-links/
 * Fundamentals of AWS cloud security talk: https://www.youtube.com/watch?v=-ObImxw1PmI&list=PLhr1KZpdzukdaIJyiHPK0XLqLZxpfBp9c&index=4&t=0s
 * Doing Incident Response on AWS: https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf
-* https://aws.amazon.com/blogs/publicsector/building-a-cloud-specific-incident-response-plan/
+* Build an Incident Response Plan: https://aws.amazon.com/blogs/publicsector/building-a-cloud-specific-incident-response-plan/
 
 ## Non-AWS Resources about AWS Services
 
@@ -39,4 +43,6 @@ A Class on the Well-Architected Framework: https://acloud.guru/learn/aws-well-ar
 Top 10 Risks of Cloud Computing: https://twitter.com/Mrs_DarkDonado/status/1122907029570326533
 
 A Risk Modeling Tool for your AWS account(s): https://magoo.github.io/model-risk-aws/
+
+Cat Images: https://www.pexels.com/search/cats/
 
