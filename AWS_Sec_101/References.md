@@ -14,6 +14,7 @@
 * Example IAM Policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
 * The Classic Shared Responsibility Model: https://aws.amazon.com/compliance/shared-responsibility-model/
 * Well-Architected basics: https://aws.amazon.com/architecture/well-architected/
+* Tagging Strategies: https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
 
 **AWS’ own Security Resources**:
 * All security resources: https://aws.amazon.com/security/security-resources/
@@ -37,6 +38,12 @@
 **Searching your code for AWS Secret Keys**:
 * https://github.com/awslabs/git-secrets
 * https://github.com/dxa4481/truffleHog
+
+**News about the CapitalOne Hack:**
+* https://krebsonsecurity.com/2019/07/capital-one-data-theft-impacts-106m-people/
+* https://www.inc.com/minda-zetlin/paige-thompson-capital-one-hack-former-amazon-engineer-social-security-numbers.html
+* Indictment: https://www.justice.gov/usao-wdwa/press-release/file/1188626/download
+* Likely methodology: https://aws.amazon.com/solutions/aws-waf-security-automations/
 
 A Class on the Well-Architected Framework: https://acloud.guru/learn/aws-well-architected-framework
 
