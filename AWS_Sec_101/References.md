@@ -12,6 +12,8 @@
 * All about writing for the APIs: https://docs.aws.amazon.com/#user_guides
 * How to Create IAM Policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create.html
 * Example IAM Policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
+* Top 10 IAM Best Practices (talk): https://www.youtube.com/watch?v=4AZX8COgnmU
+* IAM Best Practice article: https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
 * The Classic Shared Responsibility Model: https://aws.amazon.com/compliance/shared-responsibility-model/
 * Well-Architected basics: https://aws.amazon.com/architecture/well-architected/
 * Tagging Strategies: https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
