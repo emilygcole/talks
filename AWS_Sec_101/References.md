@@ -3,6 +3,7 @@
 **AWS History**:
 * https://aws.amazon.com/10year/
 * https://techcrunch.com/2016/07/02/andy-jassys-brief-history-of-the-genesis-of-aws/
+* https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/
 
 ## Written by AWS about AWS
 
@@ -10,6 +11,7 @@
 * Host a website on S3: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
 * More about Lambda: https://aws.amazon.com/lambda/faqs/
 * All about writing for the APIs: https://docs.aws.amazon.com/#user_guides
+* SDKs: https://aws.amazon.com/tools/
 * How to Create IAM Policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create.html
 * Example IAM Policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
 * Top 10 IAM Best Practices (talk): https://www.youtube.com/watch?v=4AZX8COgnmU
@@ -46,15 +48,20 @@
 * https://www.inc.com/minda-zetlin/paige-thompson-capital-one-hack-former-amazon-engineer-social-security-numbers.html
 * Indictment: https://www.justice.gov/usao-wdwa/press-release/file/1188626/download
 * Likely methodology: https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-defending-the-cloud-from-the-full-stack-hack.pdf
-* https://twitter.com/dvassallo/status/1154516910265884672
 * https://start.jcolemorrison.com/the-technical-side-of-the-capital-one-aws-security-breach/
 * https://www.cyberscoop.com/capital-one-cybersecurity-data-breach-what-went-wrong/
 
-A Class on the Well-Architected Framework: https://acloud.guru/learn/aws-well-architected-framework
+**Training:**
+* A Class on the Well-Architected Framework: https://acloud.guru/learn/aws-well-architected-framework
+* Free AWS workshops: https://awssecworkshops.com/
+* AWS Immersion Days are offered by AWS to Enterprise customers
 
 Top 10 Risks of Cloud Computing: https://twitter.com/Mrs_DarkDonado/status/1122907029570326533
 
+One person's idea of the best way to use AWS: https://twitter.com/dvassallo/status/1154516910265884672
+
 A Risk Modeling Tool for your AWS account(s): https://magoo.github.io/model-risk-aws/
 
-Cat Images: https://www.pexels.com/search/cats/
+"All The Things" image from https://hyperboleandahalf.blogspot.com/
+All Other Images: https://www.pexels.com/search/cats/
 
