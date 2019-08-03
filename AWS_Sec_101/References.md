@@ -45,7 +45,10 @@
 * https://krebsonsecurity.com/2019/07/capital-one-data-theft-impacts-106m-people/
 * https://www.inc.com/minda-zetlin/paige-thompson-capital-one-hack-former-amazon-engineer-social-security-numbers.html
 * Indictment: https://www.justice.gov/usao-wdwa/press-release/file/1188626/download
-* Likely methodology: https://aws.amazon.com/solutions/aws-waf-security-automations/
+* Likely methodology: https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-defending-the-cloud-from-the-full-stack-hack.pdf
+* https://twitter.com/dvassallo/status/1154516910265884672
+* https://start.jcolemorrison.com/the-technical-side-of-the-capital-one-aws-security-breach/
+* https://www.cyberscoop.com/capital-one-cybersecurity-data-breach-what-went-wrong/
 
 A Class on the Well-Architected Framework: https://acloud.guru/learn/aws-well-architected-framework
 
