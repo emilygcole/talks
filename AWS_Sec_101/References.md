@@ -63,5 +63,7 @@ One person's idea of the best way to use AWS: https://twitter.com/dvassallo/stat
 A Risk Modeling Tool for your AWS account(s): https://magoo.github.io/model-risk-aws/
 
 "All The Things" image from https://hyperboleandahalf.blogspot.com/
-All Other Images: https://www.pexels.com/search/cats/
 
+All Other non-AWS screenshot Images: https://www.pexels.com/search/cats/
+
+ScoutSuite multi-cloud security audit tools: https://github.com/nccgroup/ScoutSuite
