@@ -10,12 +10,14 @@
 **Specific Guides**:
 * Host a website on S3: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
 * More about Lambda: https://aws.amazon.com/lambda/faqs/
+* Setting up your API Keys: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_access-keys.html
 * All about writing for the APIs: https://docs.aws.amazon.com/#user_guides
 * SDKs: https://aws.amazon.com/tools/
 * How to Create IAM Policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_create.html
 * Example IAM Policies: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
 * Top 10 IAM Best Practices (talk): https://www.youtube.com/watch?v=4AZX8COgnmU
 * IAM Best Practice article: https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
+* Reducing Privileges in IAM: https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_access-advisor-example-scenarios.html
 * The Classic Shared Responsibility Model: https://aws.amazon.com/compliance/shared-responsibility-model/
 * Well-Architected basics: https://aws.amazon.com/architecture/well-architected/
 * Tagging Strategies: https://aws.amazon.com/answers/account-management/aws-tagging-strategies/
@@ -26,6 +28,7 @@
 * Fundamentals of AWS cloud security talk: https://www.youtube.com/watch?v=-ObImxw1PmI&list=PLhr1KZpdzukdaIJyiHPK0XLqLZxpfBp9c&index=4&t=0s
 * Doing Incident Response on AWS: https://d1.awsstatic.com/whitepapers/aws_security_incident_response.pdf
 * Build an Incident Response Plan: https://aws.amazon.com/blogs/publicsector/building-a-cloud-specific-incident-response-plan/
+* Play around with security and S3: http://flaws.cloud/
 
 ## Non-AWS Resources about AWS Services
 
