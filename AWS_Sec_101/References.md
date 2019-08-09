@@ -46,11 +46,12 @@
 * https://github.com/awslabs/git-secrets
 * https://github.com/dxa4481/truffleHog
 
-**News about the CapitalOne Hack:**
+**Links about the CapitalOne Hack:**
 * https://krebsonsecurity.com/2019/07/capital-one-data-theft-impacts-106m-people/
 * https://www.inc.com/minda-zetlin/paige-thompson-capital-one-hack-former-amazon-engineer-social-security-numbers.html
 * Indictment: https://www.justice.gov/usao-wdwa/press-release/file/1188626/download
 * Likely methodology: https://www.rsaconference.com/writable/presentations/file_upload/csv-w03-defending-the-cloud-from-the-full-stack-hack.pdf
+* What is SSRF anyway? https://www.owasp.org/index.php/Server_Side_Request_Forgery
 * https://start.jcolemorrison.com/the-technical-side-of-the-capital-one-aws-security-breach/
 * https://www.cyberscoop.com/capital-one-cybersecurity-data-breach-what-went-wrong/
 
@@ -58,6 +59,9 @@
 * A Class on the Well-Architected Framework: https://acloud.guru/learn/aws-well-architected-framework
 * Free AWS workshops: https://awssecworkshops.com/
 * AWS Immersion Days are offered by AWS to Enterprise customers
+* SANS' Cloud Security & Risk Fundamentals class: https://www.sans.org/course/cloud-security-fundamentals
+* SANS' Cloud Security & DevOps Automation class: https://www.sans.org/course/secure-devops-cloud-application-security
+* SANS' Cloud Security Architecture & Automation class: https://www.sans.org/course/cloud-security-architecture-and-operations
 
 Top 10 Risks of Cloud Computing: https://twitter.com/Mrs_DarkDonado/status/1122907029570326533
 
