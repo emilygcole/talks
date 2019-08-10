@@ -55,6 +55,8 @@
 * https://start.jcolemorrison.com/the-technical-side-of-the-capital-one-aws-security-breach/
 * https://www.cyberscoop.com/capital-one-cybersecurity-data-breach-what-went-wrong/
 
+Cloud Backups (EBS snapshots) public: https://techcrunch.com/2019/08/09/aws-ebs-cloud-backups-leak/
+
 **Training:**
 * A Class on the Well-Architected Framework: https://acloud.guru/learn/aws-well-architected-framework
 * Free AWS workshops: https://awssecworkshops.com/
