@@ -56,6 +56,7 @@
 * https://www.cyberscoop.com/capital-one-cybersecurity-data-breach-what-went-wrong/
 
 Cloud Backups (EBS snapshots) public: https://techcrunch.com/2019/08/09/aws-ebs-cloud-backups-leak/
+Auditing your EBS Snapshots: https://www.cloudconformity.com/conformity-rules/EBS/public-snapshots.html
 
 **Training:**
 * A Class on the Well-Architected Framework: https://acloud.guru/learn/aws-well-architected-framework
