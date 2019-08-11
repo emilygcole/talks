@@ -4,4 +4,4 @@ A talk given at the [Diana Initiative Conference](https://www.dianainitiative.or
 
 [Slides are on Slideshare](https://www.slideshare.net/EmilyGladstoneCole/getting-started-with-aws-security-162952150)
 
-##References
+[References](References.md)
