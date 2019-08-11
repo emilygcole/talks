@@ -1,4 +1,4 @@
-#Getting Started With AWS Security
+# Getting Started With AWS Security
 
 A talk given at the [Diana Initiative Conference](https://www.dianainitiative.org/) on August 10th, 2019.
 
