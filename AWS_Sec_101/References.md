@@ -54,6 +54,7 @@
 * What is SSRF anyway? https://www.owasp.org/index.php/Server_Side_Request_Forgery
 * https://start.jcolemorrison.com/the-technical-side-of-the-capital-one-aws-security-breach/
 * https://www.cyberscoop.com/capital-one-cybersecurity-data-breach-what-went-wrong/
+* Walkthrough of the probable attack methodology: https://application.security/
 
 Cloud Backups (EBS snapshots) public: https://techcrunch.com/2019/08/09/aws-ebs-cloud-backups-leak/
 Auditing your EBS Snapshots: https://www.cloudconformity.com/conformity-rules/EBS/public-snapshots.html
